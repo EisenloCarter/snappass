@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\EisenloCarter\Desktop\FGAPP\libs\bouncycastle.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bc516b15f57b676abe36c815a54a8a9704b8a4e">
+        <dex dex="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\transforms\dex\debug\folders\1000\2\bouncycastle_d19e44cf2ea25b08b82a48ca4403d4dd07d1294f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\EisenloCarter\Desktop\FGAPP\libs\junit-4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f35ee1f35d2dadbb5029991449ee90c1bab4d4a">
+        <dex dex="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\transforms\dex\debug\folders\1000\2\junit-4.4_7ce38099c3044d2910e7cd07edee0e52fce6cee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\EisenloCarter\Desktop\FGAPP\libs\de.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="411ae82c479f67137f8f8f57d25126780bd504dc">
+        <dex dex="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\transforms\dex\debug\folders\1000\2\de_cbf6c7846073423d5500c1ed8baa258883014891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83b9b97f5e857c16409c8a7efa0410306c322f75">
+        <dex dex="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3f57dfbbbcd3af80bc5bb4956010b2d6a4cf0b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\EisenloCarter\Desktop\FGAPP\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_32e12ca88ec01ebb4cf4cd06c863e7ee7d1d0fac\classes.dex" />
+    </item>
+
+</items>

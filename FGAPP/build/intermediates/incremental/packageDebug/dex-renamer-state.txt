@@ -1,0 +1,7 @@
+#Thu Jun 08 22:18:01 CST 2017
+base.0=C\:\\Users\\EisenloCarter\\Desktop\\FGAPP\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f57dfbbbcd3af80bc5bb4956010b2d6a4cf0b80
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\EisenloCarter\\Desktop\\FGAPP\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_32e12ca88ec01ebb4cf4cd06c863e7ee7d1d0fac\\classes.dex
+base.1=C\:\\Users\\EisenloCarter\\Desktop\\FGAPP\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_32e12ca88ec01ebb4cf4cd06c863e7ee7d1d0fac
+file.0=C\:\\Users\\EisenloCarter\\Desktop\\FGAPP\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f57dfbbbcd3af80bc5bb4956010b2d6a4cf0b80\\classes.dex

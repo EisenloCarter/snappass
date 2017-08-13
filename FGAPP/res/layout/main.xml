@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/selectFile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_selectImage" />
+
+    <Button
+        android:id="@+id/uploadFile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_uploadImage" />
+
+    <Button
+        android:id="@+id/downloadFile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_downloadImage" />
+
+    <TextView
+        android:id="@+id/uploadFileResult"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tx_uploadFile" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/ImageView"
+        android:scaleType="fitXY" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">SnapPass</string>
+    <string name="downlist">可下载文件</string>
+    <string name="tx_uploadFile"> </string>
+    <string name="btn_uploadImage">上传</string>
+    <string name="btn_downloadImage">下载</string>
+    <string name="btn_selectImage">选择文件</string>
+    <string name="ImageView">ImageView</string>
+
+    <string name="btn_cancel">取消</string>
+    <string name="btn_pick_photo">选择图片</string>
+    <string name="btn_pick_doc">选择文本文件</string>
+</resources>
